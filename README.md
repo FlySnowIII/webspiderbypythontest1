@@ -2,11 +2,11 @@
 Python Webスクレイピング 技術紹介
 
 * Python SDK:
-    [Qiita](https://www.python.org/)
+    <https://www.python.org/>
 * Python IDE:
-    [Qiita](https://www.jetbrains.com/pycharm/)
+    <https://www.jetbrains.com/pycharm/>
 * Youtube:
-    [Qiita](https://youtu.be/xi1kapEug0A)
+    <https://youtu.be/xi1kapEug0A>
     
     
 For Mr.Saruwatari
